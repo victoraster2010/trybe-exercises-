@@ -1,4 +1,4 @@
-# Repositório de Aulas ao Vivo Da Turma 14 - Tribo A
+# Repositório de Aulas ao Vivo Da Turma 14 - Tribo A 💻 🎥
 
 Este repositório armazena os códigos e scripts fornecidos durante as aulas ao vivo pelas pessoas especialistas da Trybe.
 
