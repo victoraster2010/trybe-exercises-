@@ -52,3 +52,28 @@ if(contadorIf > 20) {
 else {
     console.log("Valor menor ou igual a 20");
 }
+
+// exercicio 5 descubra o maior numero e o imprima
+let maiorValor = 0;
+
+for(let i = 0; i < numbers.length; ++i) {
+    if(numbers[i] > maiorValor) {
+        maiorValor = numbers[i];
+    }
+    console.log(maiorValor);
+
+
+}
+
+//exercicio 6 descubra os numeros impares
+
+
+let arrayImpar = []; 
+for(let i = 0; i < numbers.length ; ++i) {
+    if(numbers[i] % 2 === 1) {
+    arrayImpar.push(numbers[i]); }
+    
+}
+    
+
+console.log(arrayImpar);
